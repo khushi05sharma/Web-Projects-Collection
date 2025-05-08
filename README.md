@@ -16,7 +16,7 @@ This repository contains a collection of small web-based projects developed usin
 
 ## Color Changer 🎨
 
-![Color Changer Screenshot](./screenshots/color.png)
+![Color Changer Screenshot](./screenshots/color.jpeg)
 
 **Description**:  
 A simple web app that changes the background color of the page on every button click. It generates a random RGB color using JavaScript.
@@ -35,7 +35,7 @@ A simple web app that changes the background color of the page on every button c
 
 ## Digital Clock 🕒
 
-![Digital Clock Screenshot](./screenshots/digi-clock.png)
+![Digital Clock Screenshot](./screenshots/digi-clock.jpeg)
 
 **Description**:  
 Displays a live digital clock that updates every second using JavaScript's `setInterval()`.
@@ -53,7 +53,7 @@ Displays a live digital clock that updates every second using JavaScript's `setI
 
 ## Feedback Form 📝
 
-![Feedback Form Screenshot](./screenshots/form.png)
+![Feedback Form Screenshot](./screenshots/form.jpeg)
 
 **Description**:  
 A form for collecting user feedback. Displays a "Thank You" message upon submission. 🎉
@@ -72,7 +72,7 @@ A form for collecting user feedback. Displays a "Thank You" message upon submiss
 
 ## FAQ Page 📋
 
-![FAQ Screenshot](./screenshots/FAQ.png)
+![FAQ Screenshot](./screenshots/FAQ.jpeg)
 
 **Description**:  
 A simple FAQ page where clicking a question toggles the corresponding answer. 🤔
@@ -90,7 +90,7 @@ A simple FAQ page where clicking a question toggles the corresponding answer. �
 
 ## Interactive Quiz 🧠
 
-![Quiz Screenshot](./screenshots/quiz.png)
+![Quiz Screenshot](./screenshots/quiz.jpeg)
 
 **Description**:  
 A fun quiz that tests your knowledge of Disney characters. It features multiple-choice questions and shows your score. 🎯
