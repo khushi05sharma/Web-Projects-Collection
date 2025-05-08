@@ -6,11 +6,11 @@ This repository contains a collection of small web-based projects developed usin
 
 ## Table of Contents 📚
 
-1. [Color Changer 🎨](#color-changer)
-2. [Digital Clock 🕒](#digital-clock)
-3. [Feedback Form 📝](#feedback-form)
-4. [FAQ Page 📋](#faq-page)
-5. [Interactive Quiz 🧠](#interactive-quiz)
+1. [Color Changer 🎨](#Color-Changer)
+2. [Digital Clock 🕒](#Digital-Clock)
+3. [Feedback Form 📝](#Feedback-Form)
+4. [FAQ Page 📋](#FAQ-Page)
+5. [Interactive Quiz 🧠](#Interactive-Quiz)
 
 ---
 
