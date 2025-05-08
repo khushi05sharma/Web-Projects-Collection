@@ -16,7 +16,7 @@ This repository contains a collection of small web-based projects developed usin
 
 ## 1. Color Changer 🎨
 
-![Color Changer Screenshot](./easy/screenshots/color.png)
+![Color Changer Screenshot](./Easy/screenshots/color.png)
 
 **Description**:  
 A simple web app that changes the background color of the page on every button click. It generates a random RGB color using JavaScript.
@@ -35,7 +35,7 @@ A simple web app that changes the background color of the page on every button c
 
 ## 2. Digital Clock 🕒
 
-![Digital Clock Screenshot](./easy/screenshots/digi-clock.png)
+![Digital Clock Screenshot](./Easy/screenshots/digi-clock.png)
 
 **Description**:  
 Displays a live digital clock that updates every second using JavaScript's `setInterval()`.
@@ -53,7 +53,7 @@ Displays a live digital clock that updates every second using JavaScript's `setI
 
 ## 3. Feedback Form 📝
 
-![Feedback Form Screenshot](./easy/screenshots/form.png)
+![Feedback Form Screenshot](./Easy/screenshots/form.png)
 
 **Description**:  
 A form for collecting user feedback. Displays a "Thank You" message upon submission. 🎉
@@ -90,7 +90,7 @@ A simple FAQ page where clicking a question toggles the corresponding answer. �
 
 ## 5. Interactive Quiz 🧠
 
-![Quiz Screenshot](./easy/screenshots/quiz.png)
+![Quiz Screenshot](./Easy/screenshots/quiz.png)
 
 **Description**:  
 A fun quiz that tests your knowledge of Disney characters. It features multiple-choice questions and shows your score. 🎯
@@ -116,5 +116,6 @@ To run these projects locally:
    git clone <repository-url>
 
 
-License 📄
+## License 📄
+
 This repository is open-source and available under the MIT License. 🥳
