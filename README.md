@@ -113,7 +113,7 @@ To run these projects locally:
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/khushi05sharma/Web-Projects-Collection.git
 
 
 ## License 📄
