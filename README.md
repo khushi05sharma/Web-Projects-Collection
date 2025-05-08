@@ -6,11 +6,11 @@ This repository contains a collection of small web-based projects developed usin
 
 ## Table of Contents 📚
 
-1. [Color Changer 🎨](#color-changer)
-2. [Digital Clock 🕒](#digital-clock)
-3. [Feedback Form 📝](#feedback-form)
-4. [FAQ Page 📋](#faq-page)
-5. [Interactive Quiz 🧠](#interactive-quiz)
+1. [Color Changer 🎨](#1-color-changer)
+2. [Digital Clock 🕒](#2-digital-clock)
+3. [Feedback Form 📝](#3-feedback-form)
+4. [FAQ Page 📋](#4-faq-page)
+5. [Interactive Quiz 🧠](#5-interactive-quiz)
 
 ---
 
@@ -72,7 +72,7 @@ A form for collecting user feedback. Displays a "Thank You" message upon submiss
 
 ## 4. FAQ Page 📋
 
-![FAQ Screenshot](./easy/screenshots/FAQ.png)
+![FAQ Screenshot](./Easy/screenshots/FAQ.png)
 
 **Description**:  
 A simple FAQ page where clicking a question toggles the corresponding answer. 🤔
