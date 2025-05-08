@@ -2,7 +2,7 @@
 
 This repository contains a collection of small web-based projects developed using **HTML**, **CSS**, and **JavaScript**. Each project demonstrates essential front-end skills, including DOM manipulation, event handling, and user interactivity. 
 
-👨‍💻 Perfect for showcasing beginner to intermediate front-end projects!
+👨‍💻 "Great for beginners to explore and practice basic front-end concepts!"
 
 ## Table of Contents 📚
 
@@ -113,7 +113,7 @@ To run these projects locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/khushi05sharma/Web-Projects-Collection.git
+   git clone https://github.com/khushi05sharma/beginner-web-exercises.git
 
 
 ## License 📄
