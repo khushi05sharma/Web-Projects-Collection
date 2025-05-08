@@ -90,7 +90,7 @@ A simple FAQ page where clicking a question toggles the corresponding answer. �
 
 ## Interactive Quiz 🧠
 
-![Quiz Screenshot](./screenshots./quiz.jpeg)
+![Interactive Quiz Screenshot](./screenshots./quiz.jpeg)
 
 **Description**:  
 A fun quiz that tests your knowledge of Disney characters. It features multiple-choice questions and shows your score. 🎯
