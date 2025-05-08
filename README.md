@@ -2,7 +2,7 @@
 
 This repository contains a collection of small web-based projects developed using **HTML**, **CSS**, and **JavaScript**. Each project demonstrates essential front-end skills, including DOM manipulation, event handling, and user interactivity. 
 
-👨‍💻 "Great for beginners to explore and practice basic front-end concepts!"
+👨‍💻 Great for beginners to explore and practice basic front-end concepts!
 
 ## Table of Contents 📚
 
