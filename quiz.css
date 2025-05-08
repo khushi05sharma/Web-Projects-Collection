@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    min-height: 100vh;
+    color: #4a4a4a;
+    background: linear-gradient(to bottom right, #ffecd2 ,#fcb69f);
+}
+
+.quiz-container{
+    background: #fff;
+    border: 4px solid #fcb69f;
+    border-radius: 15px;
+    padding: 2rem;
+    width: 90%;
+    max-width: 600px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.645);
+    position: relative;
+}
+
+.quiz-header{
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.quiz-header h1 {
+    font-size: 2.5rem;
+    color: #ff6f61;
+    margin-bottom: 0.5rem;
+    text-shadow: 1px 1px 0px #c56c6c;
+}
+
+.quiz-header p{
+    font-size: 1.1rem;
+}
+
+main{
+    padding: 1rem 0;
+}
+
+.question{
+    background-color: #ffe3e3;
+    border: 2px solid #ff6f61;
+    border-radius: 10px;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    box-shadow: inset 0px 4px 6px rgba(0, 0, 0, 0.204);
+}
+
+.question h2{
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+}
+
+.options{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.options label{
+    display: flex;
+    align-items: center;
+    border: 1px solid #ff6f61;
+    border-radius: 5px;
+    background-color: #fff7f7;
+    padding: 0.6rem;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.options label:hover{
+    transform: translateX(-3px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.options input{
+    margin-right: 0.5rem;
+    accent-color: #ff6f61;
+}
+
+
+button{
+    background: #ff6f61;
+    color: white;
+    padding: 0.75rem 2rem;
+    border: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.375);
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+button:hover {
+    background: #ff3d3d;
+    transform: translateY(-3px);
+}
+
+button:active {
+    transform: translateY(1px);
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#result {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    color: #ff6f61;
+    font-weight: bold;
+    text-shadow: 0 4px 6px #fcb69f;
+}
+
+
+.hidden {
+    display: none;
+}
+
+@media (max-width: 600px){
+    .quiz-container{
+        padding: 1rem;
+    }
+
+    .quiz-header h1{
+        font-size: 2rem;
+    }
+
+    button{
+        padding: 0.6rem 1.5rem;
+        font-size: 1rem;
+    }
+}

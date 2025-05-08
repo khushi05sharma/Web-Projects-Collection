@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+    <h1>Feedback Form</h1>
+    <h3>Fill this form and put feedback about your experience</h3>
+
+    <form id="feed-form">
+        <div class="info">
+            <label for="name">Enter name</label>
+            <input type="text" name="name" id="name" placeholder="Your name" required>
+        </div>
+
+        <div class="info">
+            <label for="email">Enter email</label>
+            <input type="email" name="email" id="email" placeholder="Your email"required>
+        </div>
+            
+        <div class="info">
+            <label for="feedback">Feedback</label>
+            <!-- Added rows and cols attributes -->
+            <textarea name="feedback" id="feedback" rows="4" cols="20" placeholder="Your Feedback" required></textarea>
+        </div>
+            
+        <button>submit</button>
+    </form>
+
+
+
+
+
+    <script src="form.js"></script>
+</body>
+</html>
